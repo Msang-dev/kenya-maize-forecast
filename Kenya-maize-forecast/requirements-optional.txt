@@ -1,0 +1,8 @@
+scikit-learn
+joblib
+plotly
+requests
+shap
+reportlab
+matplotlib
+xgboost
